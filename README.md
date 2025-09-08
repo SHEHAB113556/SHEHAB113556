@@ -26,11 +26,30 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/SHEHAB113556/SHEHAB113556/blob/output/github-contribution-grid-snake.svg)
-## 🐍 Contribution Snake
-![snake gif](https://github.com/SHEHAB113556/SHEHAB113556/blob/output/snake.svg)
+## 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SHEHAB113556&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+
 ---
 
-## 🌱 Fun Fact  
-💡 I love solving problems, sharing knowledge, and exploring new technologies!  
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=SHEHAB113556&theme=tokyonight&no-frame=true&margin-w=15)  
+
+---
+
+## 🌐 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+<!-- Add LinkedIn or other links if you have -->
+
+---
+
+## ✨ Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
+---
+
+## 🐍 Contribution Snake  
+![snake animation](https://raw.githubusercontent.com/SHEHAB113556/SHEHAB113556/output/snake.svg)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SHEHAB113556&label=Profile%20Views&color=0e75b6&style=flat)
