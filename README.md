@@ -28,7 +28,8 @@
 
 ## 🐍 Contribution Snake  
 ![snake gif](https://github.com/SHEHAB113556/SHEHAB113556/blob/output/github-contribution-grid-snake.svg)
-
+## 🐍 Contribution Snake
+![snake gif](https://github.com/SHEHAB113556/SHEHAB113556/blob/output/snake.svg)
 ---
 
 ## 🌱 Fun Fact  
