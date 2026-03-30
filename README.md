@@ -34,7 +34,7 @@
 ---
 
 ## 🏆 GitHub Trophies  
-(https://github-profile-trophy.vercel.app/?username=SHEHEAB113556&theme=algolia)
+
 
 ---
 
