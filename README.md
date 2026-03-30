@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ali (Md Shehab Ali)  
 
 ## 🚀 About Me  
-- 🎓 Computer Science & Engineering student (BSc in CSE)  
-- 💻 Skilled in **C, C++**, and **HTML**  
-- 📚 Currently learning **Data Structures, Algorithms, and Databases**  
-- 🌍 From Bangladesh | Living in Changde, Hunan, China  
-- ✨ Passionate about coding, teaching, and creating real-world projects  
+                             - 🎓 Computer Science & Engineering student (BSc in CSE)  
+                             - 💻 Skilled in **C, C++**, and **HTML**  
+                             - 📚 Currently learning **Data Structures, Algorithms, and Databases  
+                             - 🌍 From Bangladesh | Living in Changde, Hunan, China  
+                             - ✨ Passionate about coding, teaching, and creating real-world projects  
 
 ---
 
@@ -22,18 +22,16 @@
 ## 📊 GitHub Stats  
 
 ### Overall Statistics
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB113556&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### GitHub Activity Graph
-[![Ali's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHEHAB113556&theme=tokyonight&bg_color=1f6feb&hide_border=true)](https://github.com/SHEHAB113556)
 
 ---
 
 ## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SHEHAB113556&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=SHEHAB113556&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 ---
 
