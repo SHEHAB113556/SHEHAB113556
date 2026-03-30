@@ -32,13 +32,13 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=SHEHAB113556&theme=tokyonight&no-frame=true&margin-w=15)  
+(https://github-profile-trophy.vercel.app/?username=SHEHEAB113556&theme=algolia)
 
 ---
 
 ## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-<!-- Add LinkedIn or other links if you have -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.shehab.ali007@gmail.com)  
+<!-- md.shehab.ali007@gmail.com-->
 
 ---
 
