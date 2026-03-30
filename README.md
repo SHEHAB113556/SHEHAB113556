@@ -22,7 +22,9 @@
 ## 📊 GitHub Stats  
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB113556&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight) 
+
+[![ALI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556)](https://github.com/SHEHAB113556/github-readme-stats)
 
 ---
 
