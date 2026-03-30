@@ -20,11 +20,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB113556&layout=compact&theme=tokyonight) 
+### Overall Statistics
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-[![ALI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHEHAB113556)](https://github.com/SHEHAB113556/github-readme-stats)
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB113556&layout=compact&theme=tokyonight&hide_border=true)
+
+### GitHub Activity Graph
+[![Ali's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHEHAB113556&theme=tokyonight&bg_color=1f6feb&hide_border=true)](https://github.com/SHEHAB113556)
 
 ---
 
@@ -33,24 +37,36 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements & Milestones
+
+| Badge | Description |
+|-------|-------------|
+| 📝 | Active Developer |
+| 🔧 | Problem Solver |
+| 💡 | Learning Enthusiast |
+| 🌟 | Community Contributor |
+
+---
+
+## 📈 Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/SHEHAB113556/SHEHAB113556/output/snake.svg)
 
 ---
 
 ## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.shehab.ali007@gmail.com)  
-<!-- md.shehab.ali007@gmail.com-->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.shehab.ali007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHEHAB113556)
 
 ---
 
 ## ✨ Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🐍 Contribution Snake  
-![snake animation](https://raw.githubusercontent.com/SHEHAB113556/SHEHAB113556/output/snake.svg)  
-
----
-
+## 📊 More Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=SHEHAB113556&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+**Last Updated:** March 30, 2026
